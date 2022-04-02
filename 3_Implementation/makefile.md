@@ -6,5 +6,5 @@ pdm:main.o calculator.o
 main.o:main.c
 	gcc -c -Wall main.c
 
-calculatormanagement.o:calculator.c
+calculator.o:calculator.c
 	gcc -c -Wall calculator.c
