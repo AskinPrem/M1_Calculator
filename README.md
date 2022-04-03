@@ -23,4 +23,5 @@
  * Valgrind
   [![Valgrind](https://github.com/AskinPrem/M1_Calculator/actions/workflows/valgrind.yml/badge.svg)](https://github.com/AskinPrem/M1_Calculator/actions/workflows/valgrind.yml)
 
-          
+ * Cpp check 
+  [![Code Quality - Static Code - Cppcheck](https://github.com/AskinPrem/M1_Calculator/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/AskinPrem/M1_Calculator/actions/workflows/cppcheck.yml)       
