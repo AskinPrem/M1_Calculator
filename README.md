@@ -28,3 +28,6 @@
 
 * Git Inspector
 [![Contribution Check - Git Inspector](https://github.com/AskinPrem/M1_Calculator/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/AskinPrem/M1_Calculator/actions/workflows/gitinspector.yml)
+
+*cpp check
+[![cppcheck-action](https://github.com/AskinPrem/M1_Calculator/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/AskinPrem/M1_Calculator/actions/workflows/c-cpp.yml)
