@@ -1,5 +1,5 @@
 # M1_Calculator
-# Badge
+# Badges
 
 
 
