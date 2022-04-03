@@ -17,5 +17,10 @@
 * Codiga-
       https://api.codiga.io/project/32529/score/svg -
       https://api.codiga.io/project/32529/status/svg
+      
+ 
+ 
+ * Valgrind
+  [![Valgrind](https://github.com/AskinPrem/M1_Calculator/actions/workflows/valgrind.yml/badge.svg)](https://github.com/AskinPrem/M1_Calculator/actions/workflows/valgrind.yml)
 
           
