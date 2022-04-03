@@ -14,7 +14,8 @@
 
 
 
-* Codiga- https://api.codiga.io/project/32529/score/svg
+* Codiga-
+      https://api.codiga.io/project/32529/score/svg -
+      https://api.codiga.io/project/32529/status/svg
 
-          https://api.codiga.io/project/32529/status/svg
-   
+          
